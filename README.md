@@ -13,6 +13,7 @@ Embark on this adventure with me as I unlock new abilities, defeat bugs, and cre
 - **[🧟‍♂️ Apocalypse Survival (2D)](path_to_folder)** 
 
 Each quest represents a completed game, with its own unique challenges and mechanics. Click on the titles to access the individual project folders.
+NB: More games are comming wait for them!
 
 ## 🛠️ How to Play
 
