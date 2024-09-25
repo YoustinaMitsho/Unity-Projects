@@ -27,8 +27,10 @@ NB: More games are comming wait for them!
    ```bash
    cd Unity-Projects/Game-Name
    ```
+
+3. **Extract .rar file**.
    
-3. **Open .exe file and enjoy**.
+4. **Open .exe file and enjoy**.
 
 
 ## 🎓 Skills Unlocked
