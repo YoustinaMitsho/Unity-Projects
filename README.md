@@ -8,10 +8,9 @@ Embark on this adventure with me as I unlock new abilities, defeat bugs, and cre
 
 ## 🏆 Quest Log: Completed Games 🏆
 
-- **[🏰 The Castle Escape (2D)](path_to_folder)** – Help the hero escape the treacherous dungeon!
-- **[🚀 Space Explorer (3D)](path_to_folder)** – Explore uncharted planets and gather rare minerals!
-- **[🐉 Dragon's Treasure (2D)](path_to_folder)** – Outwit the dragon and reclaim the kingdom's lost treasure!
-- **[🌊 Deep Sea Adventure (3D)](path_to_folder)** – Dive into the ocean's depths to uncover hidden mysteries!
+- **[💣 Bomber Man (2D)](path_to_folder)** 
+- **[🏃‍♂️ Awsome Platformer (2D)](path_to_folder)** 
+- **[🧟‍♂️ Apocalypse Survival (2D)](path_to_folder)** 
 
 Each quest represents a completed game, with its own unique challenges and mechanics. Click on the titles to access the individual project folders.
 
