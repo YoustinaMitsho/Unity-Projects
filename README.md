@@ -9,7 +9,7 @@ Embark on this adventure with me as I unlock new abilities, defeat bugs, and cre
 ## 🏆 Quest Log: Completed Games 🏆
 
 - **[💣 Bomber Man (2D)](path_to_folder)** 
-- **[🏃‍♂️ Awsome Platformer (2D)](path_to_folder)** 
+- **[🏃‍♂️ Awesome Platformer (2D)](path_to_folder)** 
 - **[🧟‍♂️ Apocalypse Survival (2D)](path_to_folder)** 
 
 Each quest represents a completed game, with its own unique challenges and mechanics. Click on the titles to access the individual project folders.
@@ -27,8 +27,10 @@ NB: More games are comming wait for them!
    ```bash
    cd Unity-Projects/Game-Name
    ```
+
+3. **Extract .rar file**.
    
-3. **Open .exe file and enjoy**.
+4. **Open .exe file and enjoy**.
 
 
 ## 🎓 Skills Unlocked
