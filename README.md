@@ -20,10 +20,13 @@ Each quest represents a completed game, with its own unique challenges and mecha
 1. **Clone this repository**: 
    ```bash
    git clone https://github.com/YoustinaMitsho/Unity-Projects.git
+   ```
    
 2. **Navigate to the game folder**:
-  cd Unity-Projects/Game-Name
-
+   ```bash
+   cd Unity-Projects/Game-Name
+   ```
+   
 3. **Open .exe file and enjoy**.
 
 
