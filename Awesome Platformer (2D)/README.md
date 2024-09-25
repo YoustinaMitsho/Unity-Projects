@@ -35,3 +35,8 @@
 ## Tools & Technologies ⚙️
 - **Unity Engine**: Developed using Unity’s 2D platformer system.
 - **C# Programming**: All game logic, AI, and physics scripted in C#.
+
+
+## 📄 License
+
+This game is licensed under the MIT License. See the [LICENSE](https://github.com/YoustinaMitsho/Unity-Projects/blob/main/LICENSE.md) file for details.
