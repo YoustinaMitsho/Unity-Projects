@@ -45,4 +45,4 @@ Throughout these projects, I’ve leveled up the following skills:
 
 ## 📄 License
 
-These games are licensed under the MIT License. See the [LICENSE](../LICENSE) file for details.
+These games are licensed under the MIT License. See the [LICENSE](https://github.com/YoustinaMitsho/Unity-Projects/blob/main/LICENSE.md) file for details.
