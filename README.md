@@ -23,7 +23,7 @@ Each quest represents a completed game, with its own unique challenges and mecha
    
 2. Navigate to the game folder:
   ```bash
-   cd Quest-for-Mastery/Game-Name ```
+  cd Unity-Projects/Game-Name
 
 3. Open .exe file and enjoy.
 
