@@ -19,19 +19,13 @@ Each quest represents a completed game, with its own unique challenges and mecha
 
 1. **Clone this repository**: 
    ```bash
-   git clone https://github.com/yourusername/Quest-for-Mastery.git
+   git clone https://github.com/YoustinaMitsho/Unity-Projects.git
+   
+2. Navigate to the game folder:
+  ```bash
+   cd Quest-for-Mastery/Game-Name
 
-
-### 5. **Game Details (Optional for Each Game)**
-Include extra details, like the game’s features, if you want a deeper dive for individual projects.
-
-```markdown
-## 🕹️ Game Details
-
-- **The Castle Escape**: 
-   - Genre: 2D Platformer
-   - Features: Enemies, Traps, and Treasure.
-   - Tools: Unity, C#, Tilemap.
+3. Open .exe file and enjoy.
 
 
 ## 🎓 Skills Unlocked
@@ -43,9 +37,3 @@ Throughout these projects, I’ve leveled up the following skills:
 - 🔥 Enemy AI and Game Mechanics
 - 🧩 UI Design & Game Menus
 - ⚙️ C# Scripting for Gameplay
-
-
-## 🔮 Upcoming Quests
-
-- **🏙️ City Builder (3D)** – Create your own thriving metropolis!
-- **⚔️ Hero’s Battle (2D)** – Fight off hordes of enemies in this fast-paced action game.
