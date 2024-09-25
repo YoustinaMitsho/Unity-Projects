@@ -8,7 +8,7 @@ Embark on this adventure with me as I unlock new abilities, defeat bugs, and cre
 
 ## 🏆 Quest Log: Completed Games 🏆
 
-- **[💣 Bomber Man (2D)]([path_to_folder](https://github.com/YoustinaMitsho/Unity-Projects/tree/main/Bomber%20Man%20(2D)))** 
+- **[💣 Bomber Man (2D)]([path_to_folder](https://github.com/YoustinaMitsho/Unity-Projects/tree/main/Bomber%20Man%20(2D))** 
 - **[🏃‍♂️ Awesome Platformer (2D)](path_to_folder)** 
 - **[🧟‍♂️ Apocalypse Survival (2D)](path_to_folder)** 
 
