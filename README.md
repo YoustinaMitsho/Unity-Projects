@@ -42,3 +42,7 @@ Throughout these projects, I’ve leveled up the following skills:
 - 🔥 Enemy AI and Game Mechanics
 - 🧩 UI Design & Game Menus
 - ⚙️ C# Scripting for Gameplay
+
+## 📄 License
+
+This game is licensed under the MIT License. See the [LICENSE](../LICENSE) file for details.
