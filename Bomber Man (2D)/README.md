@@ -25,3 +25,8 @@ In **Bomber Man**, you control a circle that tries to escape bombs falling from 
 ## Tools & Technologies ⚙️
 - **Unity Engine**: Built with Unity 2D.
 - **C# Programming**: Game logic and difficulty mechanics implemented in C#.
+
+
+## 📄 License
+
+This game is licensed under the MIT License. See the [LICENSE](https://github.com/YoustinaMitsho/Unity-Projects/blob/main/LICENSE.md) file for details.
