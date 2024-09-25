@@ -21,6 +21,19 @@ Each quest represents a completed game, with its own unique challenges and mecha
    ```bash
    git clone https://github.com/YoustinaMitsho/Unity-Projects.git
    
-2. Navigate to the game folder:
+2. **Navigate to the game folder**:
   ```bash
   cd Unity-Projects/Game-Name
+
+3. **Open .exe file and enjoy.**
+
+
+## 🎓 Skills Unlocked
+
+Throughout these projects, I’ve leveled up the following skills:
+
+- 🛠️ Unity 2D & 3D Development
+- 👾 Character Animation & Physics
+- 🔥 Enemy AI and Game Mechanics
+- 🧩 UI Design & Game Menus
+- ⚙️ C# Scripting for Gameplay
