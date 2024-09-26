@@ -42,7 +42,3 @@ Throughout these projects, I’ve leveled up the following skills:
 - 🔥 Enemy AI and Game Mechanics
 - 🧩 UI Design & Game Menus
 - ⚙️ C# Scripting for Gameplay
-
-## 📄 License
-
-These games are licensed under the MIT License. See the [LICENSE](https://github.com/YoustinaMitsho/Unity-Projects/blob/main/LICENSE.md) file for details.
