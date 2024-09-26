@@ -33,8 +33,3 @@ Embark on a journey through four intense levels, each with its own unique challe
 - **Dynamic Combat System**: Engage in intense firefights using a variety of weapons.
 - **Character Progression**: Level up your character to unlock new abilities and weapons.
 - **Immersive Storytelling**: Each level unfolds a part of the survival story that will keep you on the edge of your seat!
-
-
-## 📄 License
-
-This game is licensed under the MIT License. See the [LICENSE](https://github.com/YoustinaMitsho/Unity-Projects/blob/main/LICENSE.md) file for details.
